@@ -31,7 +31,7 @@ export default function Register(props) {
 
   return (
     <Layout title="Government | Register Page" url={origin} origin={origin}>
-      <div className="ml-4">
+      <div className="ml-4 mt-4">
         <a href="/" className="text-black no-underline hover:text-green-500">
           <FontAwesomeIcon
             icon={['fas', 'long-arrow-alt-left']}
